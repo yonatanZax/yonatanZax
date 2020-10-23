@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## Skills 
+<img src="resources/Javascript.png" alt="drawing" width="50"/> <img src="resources/Python.png" alt="drawing" width="50"/><img src="resources/Java.png" alt="drawing" width="50"/>
+
+
+## Projects
+- Chrome Extension: **Alt+s**
+
 <!--
 **yonatanZax/yonatanZax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
