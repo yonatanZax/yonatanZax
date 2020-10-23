@@ -1,23 +1,17 @@
-### Hi there 👋
+# Hi! Welcome to My Github page :) 👋
 
-## Skills 
-<img src="resources/Javascript.png" alt="drawing" width="50"/> <img src="resources/Python.png" alt="drawing" width="50"/><img src="resources/Java.png" alt="drawing" width="50"/>
+### Skills 
+> <img src="resources/Javascript.png" alt="drawing" width="50"/> <img src="resources/Python.png" alt="drawing" width="50"/><img src="resources/Java.png" alt="drawing" width="50"/>
 
 
-## Projects
-- Chrome Extension: **Alt+s**
+### Projects
+- **Alt+s** Website *(Backend via Flask, Frontend via React)*
+  
+  *Comming soon*
+  
+- **Alt+s** Chrome Extension *(Backend via Nodejs, Frontend via HTML and js)*
 
-<!--
-**yonatanZax/yonatanZax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>> This extension helps programmers to search queries easier and faster directly from *Alt+s*
+>> <img src="resources/alts extension.png" alt="drawing" width="500" border="5px solid black" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
