@@ -15,8 +15,7 @@
 - **Alt+s** Website *(NodeJs, Flask, React)*
 >> https://www.altsextension.com
   
-  *Comming soon*
-  <img src="resources/Alts-logo-extension.png" alt="drawing" width="500" border="5px solid black" />
+  <img src="resources/Alts-logo-extension.png" alt="drawing" width="300" border="5px solid black" />
   
 - **Alt+s** Chrome Extension *( Nodejs, jQuery)*
 
