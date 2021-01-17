@@ -12,13 +12,15 @@
 
 
 ## Projects
-- **Alt+s** Website *(Backend via Flask, Frontend via React)*
+- **Alt+s** Website *(NodeJs, Flask, React)*
+>> https://www.altsextension.com
   
   *Comming soon*
+  <img src="resources/Alts-logo-extension.png" alt="drawing" width="500" border="5px solid black" />
   
-- **Alt+s** Chrome Extension *(Backend via Nodejs, Frontend via HTML and js)*
+- **Alt+s** Chrome Extension *( Nodejs, jQuery)*
 
 >> This extension helps programmers to search queries easier and faster directly from *Alt+s*
->> <img src="resources/alts extension.png" alt="drawing" width="500" border="5px solid black" />
+>> <img src="resources/Alts extension.png" alt="drawing" width="500" border="5px solid black" />
 
 
